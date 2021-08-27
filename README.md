@@ -1,5 +1,10 @@
-# Artificial-Intelligent
-* Sharif University of Technology - Spring 2020
+## Artificial Intelligence
+
+### Homeworks:
+
+
+### Projects:
+
 
 ### Syllabus:
 * Search Space
