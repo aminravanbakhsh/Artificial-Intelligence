@@ -1,4 +1,4 @@
-## SVM
+## SVM-Kernel
 
 Dataset:
 - file.csv
